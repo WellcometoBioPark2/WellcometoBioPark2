@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This project is about environmental sustainability
+
 <!--
 **WellcometoBioPark2/WellcometoBioPark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
